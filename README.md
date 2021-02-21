@@ -3,7 +3,7 @@
 
 ## Main Goal
 
-Build a beautiful that allows user to cook eggs:=) 
+Build a beautiful app that allows user to cook eggs:=) 
 In two words it is an egg timer app to boil your eggs to perfection depending on how you prefer your eggs. 
 
 ## I learned
