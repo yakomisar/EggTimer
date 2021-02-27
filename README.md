@@ -16,5 +16,5 @@ In two words it is an egg timer app to boil your eggs to perfection depending on
 * How to use the ProgressView
 
 <p align="center">
-	<img width="328" height="710" src="Documentation/eggTimer.gif">
+	<img width="375" height="667" src="Documentation/eggTimer.gif">
 </p>
